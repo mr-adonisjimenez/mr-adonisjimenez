@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🧑‍💻 Code by Day, 📉 Trade by Night
 
-<!--
-**mr-adonisjimenez/mr-adonisjimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Adonis Jimenez – a full-stack developer with a love for algorithms, markets, and caffeine. When I'm not squashing bugs, I'm chasing candles on the blockchain. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Do
+
+- 💻 **Code**: TypeScript, JavaScript, Python, SQL
+- 📈 **Trade**: ETH, SOL, XRP, options, perpetuals, and the occasional degen token
+- 🧠 **Build**: Tools that make sense of chaos – from APIs to algo trading bots
+- 🌍 **Deploy**: Web apps, smart contracts, serverless infra, other stuff
+
+---
+
+## 🔁 Current Status
+
+```bash
+> status --dev
+Coding at 2am again... with 37 Chrome tabs open
+
+> status --market
+Still holding that one coin. You know the one 😅
