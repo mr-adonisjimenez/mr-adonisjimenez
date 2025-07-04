@@ -10,7 +10,3 @@ Hi, I’m Adonis Jimenez – a software engineer with a love for algorithms, mar
 - 📈 **Trade**: ETH, SOL, XRP, options, perpetuals, and the occasional degen token
 - 🧠 **Build**: Tools that make sense of chaos – from APIs to algo trading bots
 - 🌍 **Deploy**: Web apps, smart contracts, serverless infra, other stuff
-
----
-
-## 🔁 Current Status
